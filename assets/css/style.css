@@ -16,11 +16,11 @@ body {
 
 a {
   text-decoration: none;
-  color: #43aea0;
+  color: #66c3e7;
 }
 
 a:hover {
-  color: #00d3b8;
+  color: #87CEEB;
   text-decoration: none;
 }
 
@@ -42,7 +42,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f2f9f8;
+  background-color: #e4eff5;
 }
 
 .section-title {
@@ -128,7 +128,7 @@ section {
   right: 15px;
   bottom: 15px;
   z-index: 99999;
-  background: #70b9b0;
+  background: #87CEEB;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -142,7 +142,7 @@ section {
 }
 
 .back-to-top:hover {
-  background: #8bc6bf;
+  background: #a6d6e9;
   color: #fff;
 }
 
@@ -159,11 +159,11 @@ section {
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
-  background: #2d6760;
+  background: #0047AB;
 }
 
 #header.header-scrolled {
-  background: #1d443f;
+  background: #0047AB;
   height: 60px;
 }
 
@@ -418,7 +418,7 @@ section {
 #hero {
   width: 100%;
   height: 75vh;
-  background: url("../img/hero-background.jpg") top center;
+  background: url("../img/pescador.jpg") top center;
   background-size: cover;
   position: relative;
   margin-bottom: -80px;
@@ -426,7 +426,7 @@ section {
 
 #hero:before {
   content: "";
-  background: rgba(112, 185, 176, 0.85);
+  background: #87cfebb7;
   position: absolute;
   bottom: 0;
   top: 0;
@@ -478,8 +478,8 @@ section {
 
 #hero .btn-get-started:hover {
   background: #fff;
-  color: #70b9b0;
-  border: 1px solid #70b9b0;
+  color: #87CEEB;
+  border: 1px solid #87CEEB;
 }
 
 @media (min-width: 1024px) {
@@ -521,7 +521,7 @@ section {
 .about ul i {
   font-size: 22px;
   padding-right: 4px;
-  color: #70b9b0;
+  color: #87CEEB;
   line-height: 0;
 }
 
@@ -544,7 +544,7 @@ section {
 }
 
 .services .icon i {
-  color: #70b9b0;
+  color: #87CEEB;
   font-size: 42px;
 }
 
@@ -561,7 +561,7 @@ section {
 }
 
 .services .icon-box:hover .title a {
-  color: #70b9b0;
+  color: #87CEEB;
 }
 
 .services .description {
@@ -603,8 +603,8 @@ section {
 }
 
 .call-to-action .cta-btn:hover {
-  background: #70b9b0;
-  border: 2px solid #70b9b0;
+  background: #87CEEB;
+  border: 2px solid #87CEEB;
 }
 
 /*--------------------------------------------------------------
@@ -638,7 +638,7 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  background: #70b9b0;
+  background: #87CEEB;
   color: #fff;
 }
 
@@ -647,7 +647,7 @@ section {
 }
 
 .portfolio .portfolio-wrap {
-  background: #073839;
+  background: #87CEEB;
   overflow: hidden;
   min-height: 200px;
   position: relative;
@@ -686,7 +686,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-info a i:hover {
-  color: #70b9b0;
+  color: #87CEEB;
 }
 
 .portfolio .portfolio-wrap:hover img {
@@ -720,16 +720,16 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #70b9b0;
+  border: 1px solid #87CEEB;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #70b9b0;
+  background-color: #87CEEB;
 }
 
 .portfolio-details .portfolio-info {
   padding: 30px;
-  box-shadow: 0px 0 30px rgba(7, 56, 57, 0.08);
+  box-shadow: 0px 0 30px rgba(7, 43, 57, 0.08);
 }
 
 .portfolio-details .portfolio-info h3 {
@@ -791,7 +791,7 @@ section {
   font-weight: 400;
   padding-left: 25px;
   cursor: pointer;
-  color: #51a59b;
+  color: #87CEEB;
   transition: 0.3s;
 }
 
@@ -816,7 +816,7 @@ section {
 }
 
 .faq .faq-list .collapsed:hover {
-  color: #70b9b0;
+  color: #87CEEB;
 }
 
 .faq .faq-list .collapsed .icon-show {
@@ -892,7 +892,7 @@ section {
   line-height: 1;
   font-weight: 500;
   letter-spacing: 1px;
-  color: #70b9b0;
+  color: #87CEEB;
 }
 
 .contact .contact-about p {
@@ -912,18 +912,18 @@ section {
   justify-content: center;
   font-size: 16px;
   background: #fff;
-  color: #70b9b0;
+  color: #87CEEB;
   line-height: 0;
   margin-right: 4px;
   border-radius: 50%;
   width: 36px;
   height: 36px;
   transition: 0.3s;
-  border: 1px solid #70b9b0;
+  border: 1px solid #87CEEB;
 }
 
 .contact .social-links a:hover {
-  background: #70b9b0;
+  background: #87CEEB;
   color: #fff;
 }
 
@@ -933,7 +933,7 @@ section {
 
 .contact .info i {
   font-size: 32px;
-  color: #70b9b0;
+  color: #87CEEB;
   float: left;
   line-height: 1;
 }
@@ -960,7 +960,7 @@ section {
 .contact .php-email-form .sent-message {
   display: none;
   color: #fff;
-  background: #18d26e;
+  background: #87CEEB;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -980,7 +980,7 @@ section {
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #18d26e;
+  border: 3px solid #0047AB;
   border-top-color: #eee;
   animation: animate-loading 1s linear infinite;
 }
@@ -993,7 +993,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #70b9b0;
+  background: #0047AB;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1001,7 +1001,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #92cac3;
+  background: #87CEEB;
 }
 
 @keyframes animate-loading {
@@ -1031,7 +1031,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #073839;
+  background: #0047AB;
   padding: 30px 0;
   color: #fff;
   font-size: 14px;

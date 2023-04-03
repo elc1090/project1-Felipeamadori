@@ -14,29 +14,30 @@ Acesso: Preencha aqui a URL para acesso ao site publicado
 
 
 #### Desenvolvedor(a)
-Preencha aqui sua identificação
+Felipe Machado
 
 #### Cliente
-Preencha aqui a identificação do(a) cliente
+Leonardo Krugel
 
 #### Tecnologias
 
 Preencha aqui uma lista detalhada de tecnologias usadas, por exemplo:
 - HTML
 - CSS
-- Outras
+- Bootstrap
+- JavaScript
 
 #### Ambiente de desenvolvimento
 
 Preencha aqui uma lista detalhada de ferramentas de desenvolvimento usadas, por exemplo:
 - VS Code
-- Outras
 
 #### Créditos
 
 Preencha aqui uma lista detalhada de recursos aproveitados no projeto, por exemplo:
-- URL de templates usados
-- URL de icon kits usados
+- URL de templates usados - https://bootstrapmade.com
+- URL de icon kits usados - https://icons.getbootstrap.com
+- URL de imagens usadas - https://pixabay.com/
 - Créditos para colegas que colaboraram
 
 #### Bastidores
