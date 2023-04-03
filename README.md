@@ -8,9 +8,9 @@
 > 6. Entregue este README.md dentro da pasta raiz do seu repositório de entrega. Peça ajuda se não souber como editar ou entregar!
 > Opcional: você pode alterar a formatação do README, mas mantenha todas as informações solicitadas
 
-![Screenshot do projeto](https://mdswanson.com/static/chops-ux-step-4.png "Screenshot do projeto").
+![Screenshot do projeto](assets/img/print-project.png "Screenshot do projeto").
 
-Acesso: Preencha aqui a URL para acesso ao site publicado
+Acesso: https://elc1090.github.io/project1-Felipeamadori
 
 
 #### Desenvolvedor(a)
@@ -21,7 +21,6 @@ Leonardo Krugel
 
 #### Tecnologias
 
-Preencha aqui uma lista detalhada de tecnologias usadas, por exemplo:
 - HTML
 - CSS
 - Bootstrap
@@ -29,16 +28,13 @@ Preencha aqui uma lista detalhada de tecnologias usadas, por exemplo:
 
 #### Ambiente de desenvolvimento
 
-Preencha aqui uma lista detalhada de ferramentas de desenvolvimento usadas, por exemplo:
 - VS Code
 
 #### Créditos
 
-Preencha aqui uma lista detalhada de recursos aproveitados no projeto, por exemplo:
 - URL de templates usados - https://bootstrapmade.com
 - URL de icon kits usados - https://icons.getbootstrap.com
 - URL de imagens usadas - https://pixabay.com/
-- Créditos para colegas que colaboraram
 
 #### Bastidores
 
